@@ -1,2 +1,3 @@
 #  <obsnum>   <comment>     # <SLpipeline args>
 #123456    QAFAIL     # ...
+112902  partial map
